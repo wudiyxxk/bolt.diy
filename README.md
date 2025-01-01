@@ -61,6 +61,9 @@ bolt.diy was originally started by [Cole Medin](https://www.youtube.com/@ColeMed
 - ✅ PromptLibrary to have different variations of prompts for different use cases (@thecodacus)
 - ✅ Detect package.json and commands to auto install & run preview for folder and git import (@wonderwhy-er)
 - ✅ Selection tool to target changes visually (@emcconnell)
+- ✅ Detect terminal Errors and ask bolt to fix it (@thecodacus)
+- ✅ Detect preview Errors and ask bolt to fix it (@wonderwhy-er)
+- ✅ Add Starter Template Options (@thecodacus)
 - ⬜ **HIGH PRIORITY** - Prevent bolt from rewriting files as often (file locking and diffs)
 - ⬜ **HIGH PRIORITY** - Better prompting for smaller LLMs (code window sometimes doesn't start)
 - ⬜ **HIGH PRIORITY** - Run agents in the backend as opposed to a single model call
@@ -70,7 +73,7 @@ bolt.diy was originally started by [Cole Medin](https://www.youtube.com/@ColeMed
 - ⬜ Upload documents for knowledge - UI design templates, a code base to reference coding style, etc.
 - ⬜ Voice prompting
 - ⬜ Azure Open AI API Integration
-- ⬜ Perplexity Integration
+- ✅ Perplexity Integration (@meetpateltech)
 - ⬜ Vertex AI Integration
 
 ## Features
@@ -321,3 +324,19 @@ Explore upcoming features and priorities on our [Roadmap](https://roadmap.sh/r/o
 ## FAQ
 
 For answers to common questions, issues, and to see a list of recommended models, visit our [FAQ Page](FAQ.md).
+
+
+---
+
+# 重要通知
+
+开源强化版bolt.new 支持第三方线上及本地几乎所有的API【bolt.diy】
+
+## 视频教程
+- 安装教程：https://www.bilibili.com/video/BV1xHCgYDET4/
+- 使用教程：https://www.bilibili.com/video/BV1SSCJYpEYm/
+- YouTube：https://youtu.be/EIAM20LJods
+
+## 更多资源
+更多视频教程请访问：https://github.com/aigem/videos
+
